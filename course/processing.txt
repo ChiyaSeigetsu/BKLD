@@ -1,0 +1,10 @@
+Check website is alive (1) -> Check file if exist (2) -> Get Modified Date on website (3) -> Get Modified Date on file (4) -> Compare 2 Modified Date (5) -> Download file (6) -> overwrite file (7) -> read file (8)
+
+(1) -> alive, continue. -> dead, exit.
+(2) -> exist, continue. -> not exist, download file from website.
+(3) -> get, continue. -> cannot get, exit.
+(4) -> get, continue. -> cannot get, exit.
+(5) -> (3) newer than (4), continue. -> if not, exit.
+(6) -> can download, continue. -> cannot, exit.
+(7) -> delete old file, change name into old filename.
+(8) -> read, then export with format. -> cannot, exit.

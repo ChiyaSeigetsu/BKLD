@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b28259ee-6ce4-484d-a86c-c7340eafbcd9" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/cautrucmonhoc_raw.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/course/core.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course/test_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/course/test_function.py" afterDir="false" />
     </list>
@@ -88,11 +89,30 @@
       <option name="project" value="LOCAL" />
       <updated>1736514601793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <option name="closed" value="true" />
+      <created>1736515053478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736515053478</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
