@@ -9,5 +9,9 @@ def check_website(url):
             print("Connected.")
         else:
             print(f"Status code: {response.status_code}, Can not connect.")
+            sys.stdout.flush()
+            sys.exit("The programme is exiting...")
     except requests.exceptions.RequestException as e:
-        print("")
+        print(f"Error: {e}\nCan not connect.")
+        sys.stdout.flush()
+        sys.exit("The programme is exiting...")
